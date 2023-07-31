@@ -1,0 +1,92 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de Site",
+      "type": "income",
+      "category": "venda",
+      "price": 14000,
+      "createdAt": "2023-01-24T21:17:36.505Z"
+    },
+    {
+      "id": 2,
+      "description": "Torrada de Frango",
+      "type": "outcome",
+      "category": "compra",
+      "price": 14,
+      "createdAt": "2023-01-22T21:17:36.505Z"
+    },
+    {
+      "description": "OPA",
+      "category": "OPAI",
+      "price": 312,
+      "type": "income",
+      "createdAt": "2023-01-26T18:48:52.818Z",
+      "id": 3
+    },
+    {
+      "description": "OPA",
+      "category": "fds",
+      "price": 234,
+      "type": "income",
+      "createdAt": "2023-01-26T18:49:57.902Z",
+      "id": 4
+    },
+    {
+      "description": "CURSO",
+      "category": "EDUCACAO",
+      "price": 2000,
+      "type": "income",
+      "createdAt": "2023-01-26T18:58:56.117Z",
+      "id": 5
+    },
+    {
+      "description": "CURSO",
+      "category": "EDUCACAO",
+      "price": 23423,
+      "type": "income",
+      "createdAt": "2023-01-26T18:59:26.906Z",
+      "id": 6
+    },
+    {
+      "description": "CURSO",
+      "category": "EDUCACAO",
+      "price": 2000,
+      "type": "income",
+      "createdAt": "2023-01-26T19:03:37.523Z",
+      "id": 7
+    },
+    {
+      "description": "CURSO DE RELACIONAMENTO",
+      "category": "4231",
+      "price": 4000,
+      "type": "outcome",
+      "createdAt": "2023-01-26T19:04:23.553Z",
+      "id": 8
+    },
+    {
+      "description": "CURSO 1",
+      "category": "fds",
+      "price": 42432,
+      "type": "income",
+      "createdAt": "2023-01-26T19:06:14.502Z",
+      "id": 9
+    },
+    {
+      "description": "CURSO 123",
+      "category": "EDUCACAO",
+      "price": 2341234,
+      "type": "outcome",
+      "createdAt": "2023-01-26T19:06:43.940Z",
+      "id": 10
+    },
+    {
+      "description": "CURSO baratinho po",
+      "category": "educação",
+      "price": 2,
+      "type": "outcome",
+      "createdAt": "2023-01-26T19:19:48.847Z",
+      "id": 11
+    }
+  ]
+}
